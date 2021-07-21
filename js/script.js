@@ -60,7 +60,6 @@ const getUserInput = () => {
     // If valid string was entered:
     // Reverse the string using a helper function
     const reversedString = reverseString(userString.value);
-    console.log(reversedString);
 
     // Display the reversed string in the DOM
     displayString(reversedString);
