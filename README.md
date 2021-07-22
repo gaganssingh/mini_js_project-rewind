@@ -1,4 +1,4 @@
-# Positivity
+# REWIND
 
 A string reversal JavaScript App. Just enter a word or a sentence
 and let us reverse it for you.
